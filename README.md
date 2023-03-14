@@ -1,1 +1,2 @@
-# T-Rex-colors
+# PROC18-V3ColorfullTrex
+Colorful Trex
